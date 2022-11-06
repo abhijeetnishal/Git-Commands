@@ -14,8 +14,9 @@ You can follow below steps in Mac or Linux-
 
 3. Adding your SSH key to the ssh-agent-
    Fire up the SSH agent and add the key
-
+   
    eval `ssh-agent -s`
+   
    ssh-add ~/.ssh/id_ed25519
 
 4. Adding key to Github account-
